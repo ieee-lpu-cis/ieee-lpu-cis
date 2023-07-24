@@ -1,4 +1,4 @@
-# IEEE CIS SOCIETY [ Lovely Professional University ]
+# IEEE CIS LPU STUDENT CHAPTER
 <img src="https://github.com/ieee-lpu-cis/ieee-lpu-cis/blob/main/ieee%20cis.jpeg" alt="IEEE CIS" title="IEEE CIS SOCIETY" width=700 >
 
 ## Vision
@@ -21,7 +21,7 @@ Our mission is to:
 
 5. **Connect**: Establish strong connections with industry professionals, researchers, and experts to bridge the gap between academia and industry.
 
-## About IEEE CIS Society
+## About IEEE Computational Intelligence Society
 
 The IEEE Computational Intelligence Society (CIS) is a global community dedicated to advancing the field of computational intelligence. At Lovely Professional University's School of Computer Science and Engineering (CSE), the IEEE CIS plays a crucial role in fostering innovation and promoting knowledge exchange. Through its vast network and resources, the IEEE CIS enriches the learning experience of students and faculty, providing opportunities for staying updated with the latest advancements, participating in workshops and seminars, and engaging in cutting-edge research projects.
 
